@@ -1,9 +1,4 @@
 
-/*
-Name: Evan Lonczak
-Pledge: I pledge my honor that I have abided by the Stevens Honor System.
-*/
-
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
